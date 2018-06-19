@@ -27,7 +27,7 @@
 *.PO
 *.PRI
 *.PS
-/OBJ/* 
+OBJ/
 /SI/*    
 /USER/*
  
