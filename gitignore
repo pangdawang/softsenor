@@ -20,16 +20,7 @@
 *.lnp
 # Object files 
 
-*.IAB
-*.IAD
-*.IMB
-*.PFI
-*.PO
-*.PRI
-*.PS
-/OBJ/
-/SI/    
-/USER/
+
  
 *.o 
 
@@ -157,5 +148,14 @@ dkms.conf
 *.uvguix
 
 
-
+*.IAB
+*.IAD
+*.IMB
+*.PFI
+*.PO
+*.PRI
+*.PS
+/OBJ/
+/SI/    
+/USER/
 *.uvprojx
